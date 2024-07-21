@@ -17,5 +17,14 @@ To use the calculator, simply clone the repository or download the HTML, CSS, an
 # Contributing:
 Contributions to this project are encouraged and appreciated. If you have ideas for improvements or new features, feel free to fork the repository, make the changes, and submit a pull request. Your contributions can help enhance the calculator for all users.
 
+## Technologies Used:
+- HTML
+- CSS
+- JavaScript
+
+## Demo:
+You can check out a live demo of the password generator [https://random-password-generator-js-css-html.netlify.app].
+
+# ScreenShot:
 ![Capture](https://github.com/user-attachments/assets/9f03d649-e67f-4adc-afc8-86a64a3f6b75)
 ![1](https://github.com/user-attachments/assets/5ba6a824-c004-4a56-bdb1-e1483b0d9808)
