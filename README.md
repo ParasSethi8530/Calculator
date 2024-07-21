@@ -23,7 +23,7 @@ Contributions to this project are encouraged and appreciated. If you have ideas 
 - JavaScript
 
 ## Demo:
-You can check out a live demo of the password generator [https://random-password-generator-js-css-html.netlify.app].
+You can check out a live demo of the password generator [https://calculator-js-function.netlify.app].
 
 # ScreenShot:
 ![Capture](https://github.com/user-attachments/assets/9f03d649-e67f-4adc-afc8-86a64a3f6b75)
